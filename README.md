@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# SMCC
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Программное обеспечение математического моделирования конструкций из композитов
 
 ## Available Scripts
 
